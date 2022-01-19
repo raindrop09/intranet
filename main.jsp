@@ -24,7 +24,7 @@ aria-expanded="false">
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </button>
-<a class="navbar-brand" href="main.jsp">jsp 게시판 사이트</a>
+<a class="navbar-brand" href="main.jsp">인트라넷</a>
 </div>
 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 <ul class="nav navbar-nav">
